@@ -1,0 +1,11 @@
+﻿product_id,device_name,device_family,manufacturer,risk_class
+P001,Safety Syringe,SYR,BioCare,Class I
+P002,IV Catheter,CAT,NovaMed,Class III
+P003,Glucose Meter,GLU,BioCare,Class II
+P004,Infusion Pump,INF,BioCare,Class I
+P005,Stent,STN,MedTech,Class II
+P006,Biopsy Needle,NEE,HealthPlus,Class I
+P007,Surgical Drape,DRE,LifeSci,Class II
+P008,Oxygen Mask,MAS,LifeSci,Class II
+P009,Cannula,CAN,BioCare,Class I
+P010,Procedure Kit,KIT,BioCare,Class II

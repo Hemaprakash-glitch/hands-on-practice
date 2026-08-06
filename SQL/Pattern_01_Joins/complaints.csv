@@ -1,0 +1,201 @@
+﻿complaint_id,product_id,country_id,complaint_date,severity,status,reporter_type,lot_number,patient_harm,event_description
+CMP0001,P007,C005,2026-06-08,Medium,Open,Distributor,LOT9260,Yes,Display error
+CMP0002,P001,C008,2026-03-20,Low,Closed,Distributor,LOT4328,Yes,Foreign particle found
+CMP0003,P009,C006,2026-05-17,Medium,Closed,Patient,LOT7776,Yes,Foreign particle found
+CMP0004,P003,C005,2026-01-26,High,Investigating,Doctor,LOT1071,Yes,Device not powering on
+CMP0005,P007,C005,2026-07-11,Low,Closed,Hospital,LOT6026,No,Calibration issue
+CMP0006,P006,C003,2026-07-25,High,Closed,Hospital,LOT9079,Yes,Device not powering on
+CMP0007,P002,C002,2026-07-07,Critical,Closed,Patient,LOT3658,Yes,Packaging damaged
+CMP0008,P010,C001,2026-07-01,High,Closed,Hospital,LOT9957,Yes,Flow interruption
+CMP0009,P009,C002,2026-02-19,High,Investigating,Hospital,LOT3122,No,Display error
+CMP0010,P007,C007,2026-05-02,Critical,Investigating,Patient,LOT5638,No,Packaging damaged
+CMP0011,P003,C007,2026-04-29,Low,Investigating,Patient,LOT1138,No,Flow interruption
+CMP0012,P005,C008,2026-04-05,Critical,Investigating,Hospital,LOT4257,Yes,Packaging damaged
+CMP0013,P003,C003,2026-06-25,Critical,Investigating,Patient,LOT2741,Yes,Device not powering on
+CMP0014,P008,C003,2026-03-24,High,Open,Hospital,LOT4550,Yes,Foreign particle found
+CMP0015,P004,C004,2026-01-28,Critical,Closed,Patient,LOT7578,No,Flow interruption
+CMP0016,P008,C001,2026-05-14,Low,Open,Patient,LOT2977,Yes,Needle bent
+CMP0017,P003,C005,2026-07-19,Medium,Closed,Doctor,LOT5224,No,Device not powering on
+CMP0018,P007,C004,2026-03-30,Critical,Closed,Distributor,LOT2764,No,Foreign particle found
+CMP0019,P007,C008,2026-06-12,Low,Investigating,Hospital,LOT4720,Yes,Needle bent
+CMP0020,P004,C006,2026-04-10,High,Open,Hospital,LOT9186,No,Calibration issue
+CMP0021,P001,C007,2026-06-11,Low,Open,Hospital,LOT9793,Yes,Device not powering on
+CMP0022,P006,C002,2026-04-14,Low,Investigating,Distributor,LOT3272,No,Device not powering on
+CMP0023,P003,C004,2026-03-24,Medium,Investigating,Distributor,LOT2120,No,Packaging damaged
+CMP0024,P005,C008,2026-05-23,Medium,Open,Hospital,LOT8319,Yes,Leak observed
+CMP0025,P010,C001,2026-02-09,High,Investigating,Hospital,LOT3716,No,Flow interruption
+CMP0026,P009,C008,2026-01-22,Low,Investigating,Hospital,LOT6553,Yes,Packaging damaged
+CMP0027,P006,C008,2026-02-20,Low,Closed,Doctor,LOT9823,No,Device not powering on
+CMP0028,P002,C008,2026-04-02,Medium,Closed,Hospital,LOT5281,Yes,Leak observed
+CMP0029,P003,C002,2026-02-19,High,Closed,Distributor,LOT5304,No,Calibration issue
+CMP0030,P008,C001,2026-04-20,High,Open,Patient,LOT3924,No,Leak observed
+CMP0031,P005,C002,2026-03-09,Low,Closed,Hospital,LOT2917,No,Foreign particle found
+CMP0032,P009,C002,2026-07-27,Medium,Open,Patient,LOT5410,Yes,Needle bent
+CMP0033,P005,C003,2026-02-12,Critical,Open,Hospital,LOT4787,Yes,Foreign particle found
+CMP0034,P004,C003,2026-02-21,Medium,Investigating,Patient,LOT1172,No,Flow interruption
+CMP0035,P003,C008,2026-02-25,High,Investigating,Hospital,LOT6652,No,Flow interruption
+CMP0036,P006,C006,2026-03-15,Critical,Closed,Patient,LOT7626,Yes,Needle bent
+CMP0037,P009,C001,2026-03-23,High,Open,Hospital,LOT7089,No,Needle bent
+CMP0038,P001,C002,2026-04-23,Critical,Closed,Doctor,LOT8099,No,Flow interruption
+CMP0039,P006,C001,2026-04-05,Critical,Investigating,Doctor,LOT1254,Yes,Packaging damaged
+CMP0040,P003,C001,2026-06-01,High,Open,Doctor,LOT9257,Yes,Device not powering on
+CMP0041,P002,C008,2026-03-26,Critical,Investigating,Doctor,LOT4098,Yes,Needle bent
+CMP0042,P001,C003,2026-03-07,Low,Closed,Hospital,LOT2443,No,Leak observed
+CMP0043,P003,C003,2026-01-27,High,Closed,Doctor,LOT7953,Yes,Foreign particle found
+CMP0044,P005,C007,2026-02-15,Critical,Investigating,Hospital,LOT4331,Yes,Device not powering on
+CMP0045,P008,C007,2026-03-16,Critical,Open,Doctor,LOT9948,No,Calibration issue
+CMP0046,P006,C003,2026-04-19,Critical,Investigating,Hospital,LOT2304,No,Foreign particle found
+CMP0047,P007,C002,2026-06-23,Medium,Investigating,Distributor,LOT4630,No,Display error
+CMP0048,P009,C002,2026-05-29,Medium,Investigating,Hospital,LOT3275,Yes,Device not powering on
+CMP0049,P006,C005,2026-05-17,Critical,Open,Distributor,LOT6666,Yes,Flow interruption
+CMP0050,P007,C001,2026-03-22,Medium,Open,Patient,LOT9052,Yes,Calibration issue
+CMP0051,P003,C008,2026-01-08,Low,Closed,Distributor,LOT1571,No,Display error
+CMP0052,P007,C005,2026-05-21,Low,Open,Doctor,LOT7613,Yes,Foreign particle found
+CMP0053,P007,C008,2026-07-26,High,Investigating,Hospital,LOT8713,Yes,Leak observed
+CMP0054,P006,C007,2026-04-20,Critical,Investigating,Patient,LOT7168,Yes,Device not powering on
+CMP0055,P001,C002,2026-06-18,Critical,Closed,Distributor,LOT7699,No,Leak observed
+CMP0056,P005,C004,2026-03-11,Medium,Closed,Patient,LOT3553,Yes,Display error
+CMP0057,P003,C005,2026-04-01,Medium,Closed,Distributor,LOT5597,No,Calibration issue
+CMP0058,P009,C001,2026-01-28,High,Closed,Distributor,LOT9986,No,Display error
+CMP0059,P004,C004,2026-04-15,Medium,Open,Doctor,LOT8854,Yes,Leak observed
+CMP0060,P001,C007,2026-05-17,High,Closed,Hospital,LOT1484,Yes,Calibration issue
+CMP0061,P010,C008,2026-07-17,High,Investigating,Hospital,LOT2471,No,Flow interruption
+CMP0062,P010,C007,2026-07-26,Medium,Investigating,Patient,LOT6195,No,Packaging damaged
+CMP0063,P010,C003,2026-04-22,Critical,Open,Patient,LOT7180,No,Needle bent
+CMP0064,P002,C002,2026-01-02,Medium,Closed,Distributor,LOT4299,Yes,Display error
+CMP0065,P001,C008,2026-05-06,Critical,Investigating,Hospital,LOT9418,Yes,Display error
+CMP0066,P003,C008,2026-03-04,Medium,Investigating,Hospital,LOT4711,Yes,Packaging damaged
+CMP0067,P006,C005,2026-04-24,Medium,Open,Distributor,LOT5404,Yes,Packaging damaged
+CMP0068,P009,C008,2026-07-04,High,Closed,Patient,LOT8814,No,Leak observed
+CMP0069,P008,C007,2026-02-28,Low,Open,Distributor,LOT3625,Yes,Device not powering on
+CMP0070,P007,C007,2026-05-15,Critical,Investigating,Distributor,LOT7697,Yes,Display error
+CMP0071,P001,C005,2026-04-28,Medium,Open,Patient,LOT3250,Yes,Foreign particle found
+CMP0072,P009,C007,2026-01-14,High,Closed,Patient,LOT8829,Yes,Device not powering on
+CMP0073,P009,C003,2026-07-17,Medium,Open,Distributor,LOT9437,Yes,Needle bent
+CMP0074,P006,C003,2026-06-30,Medium,Closed,Hospital,LOT1897,Yes,Leak observed
+CMP0075,P009,C001,2026-02-23,Medium,Closed,Patient,LOT4403,Yes,Calibration issue
+CMP0076,P004,C005,2026-04-06,Low,Open,Doctor,LOT2786,Yes,Flow interruption
+CMP0077,P008,C002,2026-07-24,Low,Open,Doctor,LOT9474,No,Device not powering on
+CMP0078,P009,C006,2026-03-05,Low,Investigating,Distributor,LOT5469,No,Packaging damaged
+CMP0079,P004,C002,2026-07-11,Medium,Closed,Hospital,LOT6271,No,Calibration issue
+CMP0080,P002,C005,2026-03-14,Medium,Investigating,Doctor,LOT9470,Yes,Packaging damaged
+CMP0081,P009,C005,2026-01-14,Low,Open,Hospital,LOT9209,Yes,Calibration issue
+CMP0082,P004,C002,2026-05-16,Low,Closed,Doctor,LOT9090,No,Device not powering on
+CMP0083,P003,C006,2026-01-05,Critical,Closed,Hospital,LOT7005,Yes,Foreign particle found
+CMP0084,P007,C006,2026-04-30,Low,Investigating,Distributor,LOT8004,No,Needle bent
+CMP0085,P005,C003,2026-05-18,High,Closed,Hospital,LOT4411,Yes,Flow interruption
+CMP0086,P009,C002,2026-01-19,Low,Open,Distributor,LOT5430,No,Flow interruption
+CMP0087,P002,C005,2026-01-23,Medium,Closed,Hospital,LOT5605,No,Display error
+CMP0088,P009,C001,2026-07-17,Critical,Closed,Hospital,LOT4045,No,Needle bent
+CMP0089,P005,C002,2026-05-21,High,Investigating,Doctor,LOT1181,No,Needle bent
+CMP0090,P010,C004,2026-06-04,Medium,Investigating,Doctor,LOT5662,No,Needle bent
+CMP0091,P003,C001,2026-06-23,Medium,Closed,Hospital,LOT8324,No,Device not powering on
+CMP0092,P001,C006,2026-06-23,Critical,Open,Distributor,LOT6262,No,Foreign particle found
+CMP0093,P006,C008,2026-03-31,Medium,Investigating,Doctor,LOT3367,No,Needle bent
+CMP0094,P005,C007,2026-03-06,Medium,Closed,Doctor,LOT4063,No,Foreign particle found
+CMP0095,P010,C003,2026-03-29,High,Open,Patient,LOT3916,No,Device not powering on
+CMP0096,P010,C005,2026-02-14,Medium,Closed,Doctor,LOT3787,No,Display error
+CMP0097,P005,C003,2026-02-26,Medium,Investigating,Patient,LOT3884,Yes,Flow interruption
+CMP0098,P008,C008,2026-07-20,Low,Closed,Hospital,LOT6317,Yes,Flow interruption
+CMP0099,P007,C008,2026-06-06,Medium,Closed,Doctor,LOT4481,No,Packaging damaged
+CMP0100,P008,C005,2026-05-02,Low,Closed,Patient,LOT3681,No,Needle bent
+CMP0101,P003,C005,2026-01-28,High,Open,Patient,LOT2975,Yes,Foreign particle found
+CMP0102,P004,C008,2026-04-09,Medium,Open,Doctor,LOT7001,No,Device not powering on
+CMP0103,P005,C001,2026-03-26,High,Closed,Distributor,LOT5537,Yes,Needle bent
+CMP0104,P007,C008,2026-07-29,Critical,Closed,Patient,LOT2965,Yes,Leak observed
+CMP0105,P006,C008,2026-07-08,Medium,Closed,Doctor,LOT6813,No,Calibration issue
+CMP0106,P001,C005,2026-07-15,Critical,Open,Doctor,LOT2292,Yes,Display error
+CMP0107,P005,C001,2026-05-06,Critical,Open,Doctor,LOT4192,No,Foreign particle found
+CMP0108,P007,C001,2026-04-10,Critical,Closed,Hospital,LOT5122,No,Leak observed
+CMP0109,P009,C008,2026-06-05,Medium,Closed,Patient,LOT8155,Yes,Needle bent
+CMP0110,P008,C001,2026-01-22,Low,Investigating,Doctor,LOT2757,Yes,Device not powering on
+CMP0111,P004,C004,2026-05-06,High,Investigating,Hospital,LOT5122,No,Foreign particle found
+CMP0112,P007,C006,2026-06-17,Low,Closed,Distributor,LOT9918,Yes,Calibration issue
+CMP0113,P001,C005,2026-03-08,Medium,Investigating,Distributor,LOT2756,Yes,Foreign particle found
+CMP0114,P005,C002,2026-04-04,Critical,Closed,Distributor,LOT8635,No,Calibration issue
+CMP0115,P004,C002,2026-03-09,Critical,Open,Patient,LOT6171,Yes,Foreign particle found
+CMP0116,P007,C002,2026-06-21,Critical,Closed,Distributor,LOT1643,Yes,Leak observed
+CMP0117,P002,C002,2026-03-25,High,Closed,Patient,LOT2591,Yes,Leak observed
+CMP0118,P002,C006,2026-04-03,Medium,Investigating,Distributor,LOT1913,Yes,Foreign particle found
+CMP0119,P001,C008,2026-03-11,High,Closed,Patient,LOT6423,Yes,Packaging damaged
+CMP0120,P005,C004,2026-04-19,Critical,Investigating,Distributor,LOT3314,Yes,Device not powering on
+CMP0121,P002,C003,2026-03-23,High,Closed,Doctor,LOT7405,No,Needle bent
+CMP0122,P009,C001,2026-05-18,Critical,Investigating,Doctor,LOT8280,No,Display error
+CMP0123,P004,C008,2026-06-22,Medium,Investigating,Hospital,LOT6770,No,Packaging damaged
+CMP0124,P006,C004,2026-06-19,Critical,Open,Patient,LOT7676,No,Needle bent
+CMP0125,P004,C005,2026-03-23,High,Investigating,Hospital,LOT8301,No,Flow interruption
+CMP0126,P002,C001,2026-01-06,High,Investigating,Doctor,LOT9111,Yes,Display error
+CMP0127,P004,C004,2026-05-27,Low,Investigating,Patient,LOT7749,Yes,Leak observed
+CMP0128,P004,C001,2026-05-25,Critical,Closed,Hospital,LOT9243,Yes,Flow interruption
+CMP0129,P001,C003,2026-03-05,Critical,Investigating,Hospital,LOT6794,Yes,Needle bent
+CMP0130,P007,C008,2026-06-10,High,Closed,Doctor,LOT7471,No,Device not powering on
+CMP0131,P010,C007,2026-06-05,High,Investigating,Distributor,LOT3229,No,Flow interruption
+CMP0132,P008,C008,2026-04-01,High,Closed,Patient,LOT4863,No,Packaging damaged
+CMP0133,P003,C003,2026-03-25,High,Closed,Doctor,LOT9312,No,Packaging damaged
+CMP0134,P009,C001,2026-04-04,High,Closed,Distributor,LOT5894,No,Calibration issue
+CMP0135,P003,C005,2026-04-10,Low,Closed,Patient,LOT4553,Yes,Foreign particle found
+CMP0136,P007,C003,2026-05-15,Critical,Open,Hospital,LOT7300,No,Display error
+CMP0137,P009,C003,2026-05-11,Medium,Investigating,Hospital,LOT2427,Yes,Flow interruption
+CMP0138,P003,C003,2026-04-11,High,Open,Distributor,LOT8003,No,Flow interruption
+CMP0139,P004,C008,2026-01-13,High,Open,Distributor,LOT7811,Yes,Flow interruption
+CMP0140,P005,C001,2026-07-16,High,Closed,Doctor,LOT3762,No,Calibration issue
+CMP0141,P002,C001,2026-04-25,Critical,Investigating,Doctor,LOT5491,Yes,Flow interruption
+CMP0142,P006,C007,2026-03-10,Medium,Closed,Distributor,LOT3086,No,Flow interruption
+CMP0143,P005,C002,2026-06-19,Critical,Closed,Patient,LOT1164,Yes,Flow interruption
+CMP0144,P008,C005,2026-03-07,Critical,Open,Doctor,LOT9933,Yes,Needle bent
+CMP0145,P010,C007,2026-01-08,Low,Closed,Patient,LOT2056,Yes,Needle bent
+CMP0146,P001,C001,2026-01-09,High,Open,Patient,LOT4109,Yes,Packaging damaged
+CMP0147,P003,C005,2026-05-18,Low,Open,Doctor,LOT9875,No,Flow interruption
+CMP0148,P010,C006,2026-05-20,Low,Closed,Doctor,LOT5028,Yes,Foreign particle found
+CMP0149,P005,C003,2026-03-27,Critical,Closed,Doctor,LOT6472,Yes,Needle bent
+CMP0150,P005,C002,2026-07-22,High,Investigating,Patient,LOT1691,Yes,Leak observed
+CMP0151,P001,C008,2026-05-18,High,Closed,Hospital,LOT3267,No,Needle bent
+CMP0152,P005,C003,2026-05-04,Medium,Investigating,Distributor,LOT9569,Yes,Needle bent
+CMP0153,P010,C001,2026-04-29,Medium,Open,Doctor,LOT4318,No,Display error
+CMP0154,P001,C004,2026-02-13,Medium,Closed,Distributor,LOT6186,Yes,Leak observed
+CMP0155,P004,C005,2026-03-24,Critical,Closed,Hospital,LOT1703,Yes,Foreign particle found
+CMP0156,P002,C006,2026-07-10,Critical,Open,Hospital,LOT1530,No,Display error
+CMP0157,P007,C001,2026-05-14,Medium,Closed,Doctor,LOT2563,No,Calibration issue
+CMP0158,P005,C001,2026-02-27,Critical,Investigating,Distributor,LOT7673,Yes,Calibration issue
+CMP0159,P010,C006,2026-06-05,High,Open,Distributor,LOT2342,No,Leak observed
+CMP0160,P010,C007,2026-07-16,Medium,Open,Distributor,LOT8624,No,Display error
+CMP0161,P008,C005,2026-03-26,Medium,Investigating,Distributor,LOT2659,No,Calibration issue
+CMP0162,P005,C005,2026-07-24,High,Investigating,Hospital,LOT5370,Yes,Device not powering on
+CMP0163,P008,C002,2026-06-04,High,Investigating,Hospital,LOT5432,Yes,Device not powering on
+CMP0164,P006,C002,2026-07-02,High,Closed,Hospital,LOT3025,No,Calibration issue
+CMP0165,P010,C002,2026-07-23,Low,Investigating,Doctor,LOT7009,No,Display error
+CMP0166,P003,C005,2026-04-18,Medium,Closed,Patient,LOT9064,No,Display error
+CMP0167,P010,C002,2026-05-27,Medium,Open,Patient,LOT1952,Yes,Needle bent
+CMP0168,P002,C006,2026-05-03,High,Open,Doctor,LOT3439,No,Leak observed
+CMP0169,P009,C002,2026-06-10,High,Closed,Patient,LOT5202,No,Packaging damaged
+CMP0170,P001,C001,2026-02-22,Low,Investigating,Hospital,LOT3371,Yes,Packaging damaged
+CMP0171,P002,C004,2026-05-29,Critical,Open,Distributor,LOT4765,No,Flow interruption
+CMP0172,P006,C001,2026-04-11,Medium,Open,Doctor,LOT3676,No,Calibration issue
+CMP0173,P008,C001,2026-04-01,High,Investigating,Hospital,LOT9814,Yes,Display error
+CMP0174,P007,C003,2026-07-12,Medium,Open,Hospital,LOT1187,No,Flow interruption
+CMP0175,P009,C007,2026-01-04,Low,Open,Doctor,LOT9815,Yes,Display error
+CMP0176,P006,C005,2026-05-13,Medium,Closed,Patient,LOT8731,No,Flow interruption
+CMP0177,P009,C008,2026-01-30,High,Investigating,Distributor,LOT2628,No,Packaging damaged
+CMP0178,P007,C005,2026-05-23,Critical,Closed,Patient,LOT1506,No,Leak observed
+CMP0179,P009,C008,2026-06-23,Low,Open,Doctor,LOT7017,Yes,Foreign particle found
+CMP0180,P006,C005,2026-04-10,Medium,Closed,Doctor,LOT5510,No,Calibration issue
+CMP0181,P010,C001,2026-05-07,Medium,Investigating,Patient,LOT4909,No,Device not powering on
+CMP0182,P008,C008,2026-01-10,High,Closed,Hospital,LOT7501,Yes,Device not powering on
+CMP0183,P004,C005,2026-03-30,Medium,Investigating,Distributor,LOT9922,No,Leak observed
+CMP0184,P003,C005,2026-07-30,Low,Investigating,Patient,LOT8300,Yes,Device not powering on
+CMP0185,P001,C005,2026-03-08,High,Closed,Hospital,LOT9818,Yes,Device not powering on
+CMP0186,P005,C007,2026-05-12,Critical,Closed,Hospital,LOT3840,No,Packaging damaged
+CMP0187,P002,C003,2026-05-06,Low,Closed,Patient,LOT2508,No,Leak observed
+CMP0188,P004,C005,2026-06-15,Medium,Closed,Hospital,LOT2652,Yes,Display error
+CMP0189,P007,C003,2026-06-06,Critical,Investigating,Doctor,LOT9505,No,Flow interruption
+CMP0190,P008,C006,2026-04-24,Medium,Open,Doctor,LOT9923,No,Needle bent
+CMP0191,P002,C004,2026-06-16,Medium,Investigating,Hospital,LOT6530,No,Flow interruption
+CMP0192,P008,C003,2026-04-13,Critical,Investigating,Patient,LOT7195,No,Needle bent
+CMP0193,P002,C002,2026-03-20,Critical,Investigating,Doctor,LOT2221,No,Flow interruption
+CMP0194,P005,C008,2026-04-24,Low,Investigating,Distributor,LOT9602,No,Calibration issue
+CMP0195,P006,C001,2026-02-10,High,Investigating,Distributor,LOT2676,Yes,Device not powering on
+CMP0196,P002,C007,2026-06-04,Low,Closed,Hospital,LOT1954,Yes,Display error
+CMP0197,P010,C001,2026-06-07,High,Investigating,Patient,LOT1556,No,Packaging damaged
+CMP0198,P004,C005,2026-06-23,Low,Investigating,Hospital,LOT4276,No,Display error
+CMP0199,P010,C006,2026-02-24,High,Open,Patient,LOT8680,No,Foreign particle found
+CMP0200,P003,C001,2026-04-13,Medium,Closed,Distributor,LOT2128,No,Calibration issue
